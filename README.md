@@ -4,11 +4,14 @@ A repository for notes in general programming.
 This repository contains my annotations about programming concepts in general, the examples may be in any language (do not expect consistency with language). For now the main concepts I'm looking for are:
 
 - Algorithm;
+- Class;
 - Function;
+- Good practices;
 - Object;
-- Class.
+- Object Oriented Programming;
+- RegEx.
 
-Some other concepts are as important as the above. They are:
+Some other concepts are as important as the above, but not directly about coding. They are:
 
 - Errors;
 - Language types.
@@ -20,4 +23,4 @@ Some other concepts are as important as the above. They are:
 
 1. [en.wikipedia.org/wiki/Test-driven_development](https://en.wikipedia.org/wiki/Test-driven_development);
 2. [codecademy.com/resources/blog/errors-in-code-think-differently/](https://www.codecademy.com/resources/blog/errors-in-code-think-differently/);
-3. [Postagem](https://www.instagram.com/p/C6SaCk8I7gi/) no [Instagram](https://www.instagram.com/) de [@coders.humor](https://www.instagram.com/coders.humor/) tirando sarro sobre as diferentes maneiras de se escrever código.
+3. [Instagram post](https://www.instagram.com/p/C6SaCk8I7gi/) from [@coders.humor](https://www.instagram.com/coders.humor/) about ways of write code..
