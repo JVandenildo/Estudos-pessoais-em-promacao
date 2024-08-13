@@ -5,6 +5,7 @@ This repository contains my annotations about programming concepts in general, t
 
 - Algorithm;
 - Class;
+- Data types;
 - Function;
 - Good practices;
 - Object;
@@ -14,7 +15,8 @@ This repository contains my annotations about programming concepts in general, t
 Some other concepts are as important as the above, but not directly about coding. They are:
 
 - Errors;
-- Language types.
+- Language types;
+- IDEs.
 
 ## References
 
@@ -23,4 +25,4 @@ Some other concepts are as important as the above, but not directly about coding
 
 1. [en.wikipedia.org/wiki/Test-driven_development](https://en.wikipedia.org/wiki/Test-driven_development);
 2. [codecademy.com/resources/blog/errors-in-code-think-differently/](https://www.codecademy.com/resources/blog/errors-in-code-think-differently/);
-3. [Instagram post](https://www.instagram.com/p/C6SaCk8I7gi/) from [@coders.humor](https://www.instagram.com/coders.humor/) about ways of write code..
+3. [Instagram post](https://www.instagram.com/p/C6SaCk8I7gi/) from [@coders.humor](https://www.instagram.com/coders.humor/) about ways of writing code.
