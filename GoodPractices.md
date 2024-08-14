@@ -2,6 +2,7 @@
 
 ## Table of contents
 
+1. [Styles of writing code](#styles-of-writing-code);
 1. [References](#references).
 
 ## Styles of writing code
