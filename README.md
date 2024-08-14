@@ -15,8 +15,9 @@ This repository contains my annotations about programming concepts in general, t
 Some other concepts are as important as the above, but not directly about coding. They are:
 
 - Errors;
-- Language types;
-- IDEs.
+- Git & Github;
+- IDEs;
+- Language types.
 
 ## References
 
