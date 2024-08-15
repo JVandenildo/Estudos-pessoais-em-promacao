@@ -5,7 +5,9 @@
 1. [Compiled vs Interpreted](#compiled-vs-interpreted);
    1. [Compiled languages](#compiled-languages);
       1. [Compiler](#compiler).
-   2. [Interpreted languages](#interpreted-languages).
+   2. [Interpreted languages](#interpreted-languages);
+   3. [Scripted languages](#scripted-languages).
+      1. [Good and bad points](#good-and-bad-points-about-scripted-languages).
 2. [References](#references).
 
 ## Compiled vs Interpreted
@@ -35,6 +37,25 @@ The compiler translates the program into machine language, which is saved on the
 
 Interpreters go through a program line by line and execute each command. Interpreted languages ​​used to be significantly slower than compiled languages. However, with the development of just-in-time compilation, this gap has been closing.  
 Examples of common interpreted languages ​​are PHP, Ruby, Python, and JavaScript.
+
+### Scripted languages
+
+#### Good and bad points about scripted languages
+
+Some good points about scripted languages are:
+
+- The script language allows you to insert various effects, providing a more dynamic and interactive website, with programs, calculators, calendars, calculation tables, current date/time settings, greetings and effects on images by overlaying the mouse;
+- Because it is client-side, the code is executed on the person's own equipment, and not on the server;
+- Through the script code itself, it is possible to control the browser's behavior in several aspects. For example: opening and closing windows, creating pop-up windows and menus, modifying the browser's dimensions, configuring the status bar, inserting and deleting menus, displaying messages to the user, etc.;
+- The ease of form validation, in addition to the possibility of executing instructions in response to user actions, are also advantages;
+- The JavaScript code is inserted in a separate file or together with the HTML language commands, facilitating the operation and maintenance of both the page structure and the command lines;
+- The scripting language allows the programming of small scripts and larger programs. It also offers many object-oriented possibilities, with complex functions and data structures, and structural elements of the web page, for dynamic access and modification.
+
+Bad points include:
+
+- Easy visibility of source code;
+- The script code must be fully downloaded to the browser in order to be executed. Depending on the content and formatting applied, the time factor may be compromised;
+- The browser must be configured to interpret script codes, otherwise only the page's structural markup instructions (HTML) will be interpreted.
 
 ## References
 
